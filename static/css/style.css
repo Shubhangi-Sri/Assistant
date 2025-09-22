@@ -1,1 +1,302 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+/* Body Styles */
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Protest Guerrilla", sans-serif;
+    overflow-y: auto;
+}
+
+/* Container */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    max-width: 1200px;
+    padding: 20px;
+    overflow-y: auto;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, rgba(0, 0, 0, 0.8) 70%);
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.2);
+}
+
+/* Left Section */
+.left-side {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+/* Logo */
+#logo {
+    width: 100%;
+    max-width: 200px;
+    filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));
+    transition: transform 0.3s ease-in-out;
+}
+
+#logo:hover {
+    transform: scale(1.1) rotate(5deg);
+}
+
+/* Button Base */
+button {
+    position: relative;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+    overflow: hidden;
+}
+
+/* Main Button (Glowing & Sparkling) */
+#btn {
+    background: linear-gradient(to right, rgb(21, 145, 207), rgb(201, 41, 116));
+    color: white;
+    width: 350px;
+    padding: 12px 25px;
+    box-shadow: 0 0 10px rgba(21, 145, 207, 0.8), 0 0 15px rgba(201, 41, 116, 0.8);
+    animation: pulse 3s infinite ease-in-out;
+}
+
+#btn:hover {
+    box-shadow: 0 0 20px rgba(21, 145, 207, 0.8), 0 0 25px rgba(201, 41, 116, 0.8);
+    letter-spacing: 1px;
+    transform: scale(1.1);
+}
+
+#btn::after {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 70%);
+    opacity: 0;
+    transform: scale(0);
+    animation: sparkle 2.5s infinite ease-in-out;
+    pointer-events: none;
+}
+
+/* Loader */
+#loader {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid rgb(21, 145, 207);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-top: 20px;
+}
+
+/* Search Section */
+#ask-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    transition: transform 0.3s ease-in-out;
+}
+
+#ask-section:hover {
+    transform: scale(1.05);
+}
+
+/* Search Bar */
+#search-bar {
+    padding: 10px;
+    width: 80%;
+    border: 2px solid rgb(21, 145, 207);
+    border-radius: 5px;
+    color: black;
+    background: rgba(255, 255, 255, 0.9);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+#search-bar:focus {
+    box-shadow: 0 0 15px rgba(21, 145, 207, 0.8);
+}
+
+/* Ask Button */
+#ask-button {
+    background: linear-gradient(135deg, rgb(43, 206, 212), rgb(0, 255, 255));
+    color: white;
+    box-shadow: 0 0 10px rgba(43, 206, 212, 0.8), 0 0 20px rgba(0, 255, 255, 0.8);
+}
+
+#ask-button:hover {
+    transform: translateY(-3px) scale(1.1);
+    box-shadow: 0 0 20px rgba(43, 206, 212, 0.9), 0 0 25px rgba(0, 255, 255, 0.9);
+}
+
+/* File Upload Section */
+#file-upload {
+    padding: 10px;
+    margin-right: 10px;
+    color: white;
+    background-color: rgb(21, 145, 207);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+#file-upload:hover {
+    transform: scale(1.1);
+}
+
+#upload-form {
+    display: flex;
+    gap: 10px;
+}
+
+/* Upload Buttons */
+#upload-form button {
+    background: linear-gradient(135deg, rgb(201, 41, 116), rgb(255, 0, 102));
+    box-shadow: 0 0 8px rgba(201, 41, 116, 0.7), 0 0 12px rgba(255, 0, 102, 0.7);
+}
+
+#upload-form button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(201, 41, 116, 0.9), 0 0 25px rgba(255, 0, 102, 0.9);
+}
+
+/* Stop Button */
+#stop-button {
+    background: rgb(255, 59, 48);
+    box-shadow: 0 0 8px rgba(255, 59, 48, 0.7), 0 0 12px rgba(255, 90, 80, 0.7);
+}
+
+#stop-button:hover {
+    transform: rotate(-5deg) scale(1.1);
+    box-shadow: 0 0 20px rgba(255, 59, 48, 0.9), 0 0 25px rgba(255, 90, 80, 0.9);
+}
+
+/* Generated Box */
+#generated-box {
+    margin: 20px auto; 
+    width: 100%;
+    max-width: 1200px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    transition: transform 0.3s ease-in-out;
+}
+
+#generated-box:hover {
+    transform: scale(1.02);
+}
+
+.response-card {
+    width: 100%;
+    background-color: #444;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow-y: auto;
+    max-height: 70vh;
+    box-sizing: border-box;
+    transition: transform 0.3s ease-in-out;
+}
+
+.response-card:hover {
+    transform: scale(1.02);
+}
+
+/* Output Box */
+#output-box {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    resize: none;
+}
+
+/* Animations */
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes sparkle {
+    0%, 100% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    50% {
+        opacity: 1;
+        transform: scale(1.5);
+    }
+}
+
+@keyframes pulse {
+    0%, 100% {
+        box-shadow: 0 0 10px rgba(21, 145, 207, 0.8), 0 0 15px rgba(201, 41, 116, 0.8);
+    }
+    50% {
+        box-shadow: 0 0 20px rgba(21, 145, 207, 0.8), 0 0 25px rgba(201, 41, 116, 0.8);
+    }
+}
+
+/* Additional Glitter Effect */
+@keyframes glitter {
+    0% { background-position: 0 0; }
+    100% { background-position: 100% 100%; }
+}
+
+.glittermask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);
+    background-size: 20px 20px;
+    animation: glitter 2s linear infinite;
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+/* Apply Glitter Effect to Sections */
+.container:hover .glittermask {
+    opacity: 1;
+}
+
+.left-side:hover .glittermask {
+    opacity: 1;
+}
+
+#ask-section:hover .glittermask {
+    opacity: 1;
+}
+
+#generated-box:hover .glittermask {
+    opacity: 1;
+}
