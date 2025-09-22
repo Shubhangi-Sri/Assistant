@@ -1,1 +1,1 @@
-# Assistant
+# neo-assistant

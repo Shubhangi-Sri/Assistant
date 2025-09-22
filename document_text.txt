@@ -1,0 +1,1708 @@
+NON-TRADITIONAL MACHINING 
+(Professional Elective-I) 
+[AS PER CHOICE BASED CREDIT SYSTEM (CBCS) SCHEME] 
+SEMESTER  VI 
+ 
+Subject Code 18ME641  
+Teaching Hours / Week IA Marks 20 
+Lecture Tutorial Practical Exam Marks 80 
+03 00 00 Exam Hours 03 
+CREDITS   03 
+ 
+Course Outcomes 
+On completion of the course, the students will be able to 
+1. Understand the compare traditional and non-traditional machining process and recognize 
+the need for Non-traditional machining process. 
+2. Understand the constructional features, performance parameters, process characteristics, 
+applications, advantages and limitations of USM, AJM and WJM. 
+3. Identify the need of Chemical and electro-chemical machining process along with the 
+constructional features, process parameters, process characteristics, applications, advantages 
+and limitations. 
+4. Understand the constructional feature of the equipment, process parameters, process 
+characteristics, applications, advantages and limitations EDM & PAM. 
+5. Understand the LBM equipment, LBM parameters, and characteristics. EBM equipment 
+and mechanism of metal removal, applications, advantages and limitations LBM & EBM. 
+ 
+MODULE 1 
+INTRODUCTION 
+Introduction to Non-traditional machining, Need for Non-traditional machining process, 
+Comparison between traditional and non-traditional machining, general classification Non- 
+traditional machining processes, classification based on nature of energy employed in 
+machining, selection of non-traditional machining processes, Specific advantages, limitations 
+and applications of non-traditional machining processes. 08 hours 
+ 
+MODULE 2 
+Ultrasonic Machining (USM): Introduction, Equipment and material process, Effect of 
+process parameters: Effect of amplitude and frequency, Effect of abrasive grain diameter, 
+effect of slurry, tool & work material. Process characteristics: Material removal rate, tool 
+wear, accuracy, surface finish, applications, advantages & limitations of USM. 
+Abrasive Jet Machining (AJM): Introduction, Equipment and process of material removal, 
+process variables: carrier gas, type of abrasive, work material, stand-off distance 
+(SOD).Process characteristics-Material removal rate, Nozzle wear, accuracy & surface finish. 
+Applications, advantages & limitations of AJM. 
+Water Jet Machining (WJM): Equipment & process, Operation, applications, advantages 
+and limitations of WJM. 08 hours 
+MODULE 3 
+ELECTROCHEMICAL MACHINING (ECM) 
+Introduction, Principle of electro chemical machining: ECM equipment, elements of ECM 
+operation, Chemistry of ECM. ECM Process characteristics: Material removal rate, accuracy, 
+surface finish. 
+Process parameters: Current density, Tool feed rate, Gap between tool & work piece, velocity 
+of electrolyte flow, type of electrolyte, its concentration temperature, and choice of 
+electrolytes. ECM Tooling: ECM tooling technique & example, Tool & insulation materials. 
+Applications ECM: Electrochemical grinding and electrochemical honing process. 
+Advantages, disadvantages and application of ECG, ECH. 
+CHEMICAL MACHINING (CHM) 
+Elements of the process: Resists (maskants), Etchants. Types of chemical machining process- 
+chemical blanking process, chemical milling process. 
+Process characteristics of CHM: material removal rate, accuracy, surface finish, advantages, 
+limitations and applications of chemical machining process. 10 hours 
+ 
+MODULE 4 
+ 
+ELECTRICAL DISCHARGE MACHINING (EDM) 
+Introduction, mechanism of metal removal, EDM equipment: spark erosion generator 
+(relaxation type), dielectric medium-its functions & desirable properties, electrode feed 
+control system. Flushing types; pressure flushing, suction flushing, side flushing, pulsed 
+flushing. EDM process parameters: Spark frequency, current & spark gap, surface finish, 
+Heat Affected Zone. Advantages, limitations & applications of EDM, Electrical discharge 
+grinding, Traveling wire EDM. 
+PLASMA ARC MACHINING (PAM) 
+Introduction, non-thermal generation of plasma, equipment mechanism of metal removal, 
+Plasma torch, process parameters, process characteristics. Safety precautions. Safety 
+precautions, applications, advantages and limitations. 08 hours 
+ 
+MODULE 5 
+ 
+LASER BEAM MACHINING (LBM) 
+Introduction, generation of LASER, Equipment and mechanism of metal removal, LBM 
+parameters and characteristics, Applications, Advantages & limitations. 
+ELECTRON BEAM MACHINING (EBM) 
+Introduction, Principle, equipment and mechanism of metal removal, applications, 
+Advantages & limitations. 08 hours 
+Text Books: 
+1. Modern Machining Process by P.C Pandey and H S Shah, McGraw Hill Education India 
+Pvt. Ltd. 2000 
+2. Production technology, HMT, McGraw Hill Education India Pvt. Ltd. 2001 
+ 
+Reference Books 
+1. New Technology, Dr. Amitabha Bhattacharyya, The Institute of Engineers (India), 2000 
+2. Modern Machining process, Aditya, 2002. 
+  Non-Traditional Machining  
+ 
+NON-TRADITIONAL MACHINING 
+Module -1 
+ 
+INTRODUCTION 
+LESSON STRUCTURE: 
+1.1 Definition 
+ 
+1.2 Non traditional machining (ntm) processes characteristics 
+ 
+1.3 Need for development of non-conventional processes 
+ 
+1.4 Differences between conventional and non conventional machining processes 
+ 
+1.5 Selection of process 
+ 
+1.6 Physical parameter of the process 
+ 
+ 
+OBJECTIVES 
+ ii. Identify the characteristics of non traditional machining 
+ iii. Differentiate between conventional and non traditional machining 
+ iv. Classify different non traditional machining processes 
+ v. Identify the need for non traditional machining processes 
+Non-Traditional  Machining   
+  
+ 
+ 
+INTRODUCTION 
+ 
+Non-traditional manufacturing processes is defined as a group of processes 
+that remove excess material by various techniques involving mechanical, thermal, 
+electrical or chemical energy or combinations of these energies but do not use a sharp 
+cutting tools as it needs to be used for traditional manufacturing processes. 
+ 
+Extremely hard and brittle materials are difficult to machine by traditional 
+machining processes such as turning, drilling, shaping and milling. Non-traditional 
+machining processes, also called advanced manufacturing processes, are employed 
+where traditional machining processes are not feasible, satisfactory or economical due to 
+special reasons as outlined below. 
+ Very hard fragile materials difficult to clamp for traditional machining 
+ When the workpiece is too flexible or slender 
+ When the shape of the part is too complex 
+ 
+Several types of non-traditional machining processes have been developed to meet extra 
+required machining conditions. When these processes are employed properly, they offer 
+many advantages over non-traditional machining processes. The common non- 
+traditional machining processes are described in this section. 
+1.1 Definition: 
+A machining process is called non-traditional if its material removal 
+mechanism is basically different than those in the traditional processes, i.e. a different 
+form of energy (other than the excessive forces exercised by a tool, which is in physical 
+contact with the work piece) is applied to remove the excess material from the work 
+surface, or to separate the workpiece into smaller parts. 
+Non-Traditional  Machining   
+ 
+1.2 Non Traditional Machining (NTM) Processes are characterised as 
+follows: 
+ Material removal may occur with chip formation or even no chip formation may take 
+place. 
+For example in AJM, chips are of microscopic size and in case of Electrochemical 
+machining material removal occurs due to electrochemical dissolution at atomic level 
+ In NTM, there may not be a physical tool present. For example in laser jet machining, 
+machining is carried out by laser beam. However in Electrochemical Machining there is 
+a physical tool that is very much required for machining 
+ In NTM, the tool need not be harder than the work piece material. For example, 
+inEDM, copper is used as the tool material to machine hardened steels. 
+ Mostly NTM processes do not necessarily use mechanical energy to provide material 
+removal. They use different energy domains to provide machining. For example, in 
+USM, AJM, WJM mechanical energy is used to machine material, 
+ 
+1.3 Need for development of Non-Conventional Processes 
+The strength of steel alloys has increased five folds due to continuous R and D 
+effort. In aero-space requirement of High strength at elevated temperature with light 
+weight led to development and use of hard titanium alloys, nimonic alloys, and other 
+HSTR alloys. The ultimate tensile strength has been improved by as much as 20 times. 
+Development of cutting tools which has hardness of 80 to 85 HRC which cannot be 
+machined economically in 
+conventional methods led to development of non traditional machining methods. 
+1. Technologically advanced industries like aerospace, nuclear power, ,wafer 
+fabrication, automobiles has ever increasing use of High strength temperature resistant 
+(HSTR) alloys (having high strength to weight ratio) and other difficult to machine 
+materials like titanium, SST,nimonics, ceramics and semiconductors. It is no longer 
+possible to use conventional process to machine these alloys. 
+2. Production and processing parts of complicated shapes (in HSTR and other 
+hard to machine alloys) is difficult , time consuming an uneconomical by conventional 
+methods of machining 
+Non-Traditional  Machining   
+ 
+3. Innovative geometric design of products and components made of new exotic 
+materials with desired tolerance, surface finish cannot be produced economically by 
+conventional machining. 
+4. The following examples are provided where NTM processes are preferred over 
+the conventional machining process: 
+ Intricate shaped blind hole  e.g. square hole of 15 mmx15 mm with a depth of 30 mm 
+with a tolerance of 100 microns 
+ Difficult to machine material  e.g. Inconel, Ti-alloys or carbides, Ceramics, 
+composites , HSTR alloys, satellites etc., 
+ Low Stress Grinding  Electrochemical Grinding is preferred as compared to 
+conventional grinding 
+ Deep hole with small hole diameter   1.5 mm hole with l/d = 20 
+ Machining of composites  
+ 
+1.4 Differences between Conventional and Non-conventional machining 
+Processes . 
+ 
+ 
+Sl Conventional Process Non-Conventional Process 
+No. 
+1. The cutting tool and work piece  are There is no physical contact between 
+always in physical contact with the tool and work piece, In some non 
+relative motion with each other, traditional process tool wear exists. 
+which results in friction and tool  
+wear.  
+2. Material removal rate is limited by NTM can machine difficult to cut and 
+mechanical properties of work hard to cut materials like 
+material. titanium,ceramics,nimonics, 
+ SST,composites,semiconducting 
+ materials 
+ 
+ 
+ 
+ 
+ 
+ Non-Traditional Machining    
+ 
+ 
+3. Relative motion between  the tool Many NTM are capable of producing  
+and work is typically rotary or complex 3D shapes and cavities 
+reciprocating. Thus the shape of  
+work is limited to circular or flat  
+shapes. In spite of CNC systems,  
+production of 3D surfaces is still a  
+difficult task.  
+4. Machining  of small cavities  , slits , Machining  of small cavities,  slits and 
+blind holes or through holes are Production of non-circular, micro sized, 
+difficult large aspect ratio, shall entry angle 
+ holes are easy using NTM 
+5. Use relative simple and  inexpensive  Non-traditional  processes  requires 
+machinery and readily available expensive tools and equipment as well 
+cutting tools as skilled labour, which increase the 
+ production cost significantly 
+6. Capital cost and maintenance  cost is Capital cost and maintenance  cost is 
+low high 
+7. Traditional  processes  are well Mechanics  of Material removal of Some 
+established and physics of process of NTM process are still under research 
+is well understood  
+8. Conventional  process mostly uses Most NTM uses energy in direct form 
+mechanical energy For example : laser, Electron beam in 
+ its direct forms are used in LBM and 
+ EBM respectively 
+9. Surface finish and  tolerances  are High surface finish(up to 0.1 micron) 
+limited by machining inaccuracies and tolerances (25 Microns)can be 
+ achieved 
+10. High metal removal  rate. Low material removal rate. 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional Machining   
+ 
+1.5 SELECTION OF PROCESS: 
+The correct selection of the non-traditional machining methods must be based on the 
+following aspects. 
+i) Physical parameters of the process 
+ii) Shape to be machined 
+iii) Process capability 
+iv) Economics of the processes  
+ 
+Physical parameter of the process: 
+The physical parameters of the different NTM are given in the Table 1.0 which indicates 
+that PAM and ECM require high power for fast machining. EBM and LBM require high 
+voltages and require careful handling of equipment. EDM and USM require medium 
+power . EBM can be used in vacuum and PAM uses oxygen and hydrogen gas. 
+ 
+Shapes cutting capability 
+The different shapes can be machined by NTM. EBM and LBM are used for micro 
+drilling and cutting. USM and EDM are useful for cavity sinking and standard hole 
+drilling. ECM is useful for fine hole drilling and contour machining. PAM can be used 
+for cutting and AJM is useful for shallow pocketing 
+ 
+Process capability 
+The process capability of NTM is given in Table 2.0 EDM which achieves higher 
+accuracy has the lowest specific power requirement. ECM can machine faster and has a 
+low thermal surface damage depth. USM and AJM have very material removal rates 
+combined with high tool wear and are used non metal cutting. LBM and EBM are, due to 
+their high penetration depth can be used for micro drilling, sheet cutting and welding. 
+CHM is used for manufacture of PCM and other shallow components. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional Machining   
+  
+1.6 PHYSICAL PARAMETER OF THE PROCESS: 
+ 
+ 
+Classification of NTM processes is carried out depending on the nature of energy 
+used for material removal. The broad classification is given as follows: 
+1) Mechanical Processes 
+ 
+Abrasive Jet Machining (AJM) 
+Ultrasonic Machining (USM) 
+Water Jet Machining (WJM) 
+2) Electrochemical Processes 
+Electrochemical Machining (ECM) 
+Electro Chemical Grinding (ECG) 
+Electro Jet Drilling (EJD) 
+3) Electro-Thermal Processes 
+Electro-discharge machining (EDM) 
+Laser Jet Machining (LJM) 
+Electron Beam Machining (EBM) 
+4) Chemical Processes 
+Chemical Milling (CHM) 
+Photochemical Milling (PCM) 
+Non-Traditional Machining   
+  
+ 
+ 
+ 
+FURTHER READING: 
+1. Modern machining process, Pandey and Shah, Tata McGraw Hill 2000 
+2. New Technology, Bhattacharya 2000 
+3. Production Technology, HMT Tata McGraw Hill. 2001 
+ 
+Self-Assessment Questions 
+1. What is necessity for unconventional machining processes? 
+2. How non-traditional machining processes are classified? 
+3. Enlist the requirement that demands the use of advanced machining process. 
+4. Why unconventional mechanical machining process is not so effective on soft metals 
+like aluminium? 
+Non-Traditional  Machining   
+Module -2
+ULTRASONIC MACHINING (USM) 
+LESSON STRUCTURE: 
+2.1 Introduction 
+2.2 USM working principle 
+2.3 USM Machine 
+2.4 Working of horn as mechanical amplifier of amplitude of 
+vibration 
+2.5 Process Variables 
+2.6 Applications of USM 
+2.7 Advantages of USM 
+2.8 Disadvantages of USM 
+ 
+OBJECTIVES: 
+ Identify major components of USM equipment 
+ State the working principle of USM equipment 
+ Describe the basic mechanism of material removal in USM 
+ Identify the process parameters of USM 
+ Identify the machining characteristics of USM 
+ Analyse the effect of process parameters on material removal rate (MRR) 
+ Develop mathematical model relating MRR with USM parameters 
+ Draw variation in MRR with different process parameters 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+ 
+ 
+ULTRASONIC MACHINING (USM) 
+2.1 Introduction 
+ 
+USM is mechanical material removal process or an abrasive process used to erode 
+holes or cavities on hard or brittle workpiece by using shaped tools, high frequency 
+mechanical motion and an abrasive slurry. USM offers a solution to the expanding need 
+for machining brittle materials such as single crystals, glasses and polycrystalline 
+ceramics, and increasing complex operations to provide intricate shapes and workpiece 
+profiles. It is therefore used extensively in machining hard and brittle materials that are 
+difficult to machine by traditional manufacturing processes. 
+Ultrasonic Machining is a non-traditional process, in which abrasives contained in 
+a slurry are driven against the work by a tool oscillating at low amplitude (25-100  
+and high frequency (15-30 KHz): 
+The process was first developed in 1950s and was originally used for finishing EDM 
+surfaces. 
+The basic process is that a ductile and tough tool is pushed against the work with 
+a constant force. A constant stream of abrasive slurry passes between the tool and the 
+work (gap is 25-  
+cutting action comes from an ultrasonic (cyclic) force applied. 
+ 
+The basic components to the cutting action are believed to be, 
+ brittle fracture caused by impact of abrasive grains due to the tool vibration; 
+ cavitation induced erosion ; 
+ chemical erosion caused by slurry. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+ 
+2.2 USM working principle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Material removal primarily occurs due to the indentation of the hard abrasive grits 
+on the brittle work material. 
+ 
+ Other than this brittle failure of the work material due to indentation some 
+material removal may occur due to free flowing impact of the abrasives against 
+the work material and related solid-solid impact erosion, 
+ 
+  vibration  indentation by the abrasive grits. 
+ 
+ During indentation, due to Hertzian contact stresses, cracks would develop just 
+below the contact site, then as indentation progresses the cracks would propagate 
+due to increase in stress and ultimately lead to brittle fracture of the work material 
+ 
+ 
+ 
+Non-Traditional  Machining   
+ 
+under each individual interaction site between the abrasive grits and the 
+workpiece. 
+ 
+ The tool material should be such that indentation by the abrasive grits does not 
+lead to brittle failure. 
+ 
+ Thus the tools are made of tough, strong and ductile materials like steel, stainless 
+steel and other ductile metallic alloys. 
+ 
+2.3 USM Machine 
+ 
+ 
+ 
+ 
+ 
+USM Equipment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+ 
+The basic mechanical structure of an USM is very similar to a drill press. 
+However, it has additional features to carry out USM of brittle work material. The work 
+piece is mounted on a vice, which can be located at the desired position under the tool 
+using a 2 axis table. The table can further be lowered or raised to accommodate work of 
+different thickness. 
+The typical elements of an USM are 
+ Slurry delivery and return system 
+ Feed mechanism to provide a downward feed force on the tool during machining 
+ The transducer, which generates the ultrasonic vibration 
+ The horn or concentrator, which mechanically amplifies the vibration to the 
+required amplitude of 15  50  accommodates the tool at its tip. 
+ 
+ 
+2.4 Working of horn as mechanical amplifier of amplitude of vibration 
+ 
+ 
+ 
+ 
+The ultrasonic vibrations are produced by the transducer. The transducer is driven 
+by suitable signal generator followed by power amplifier. 
+The transducer for USM works on the following principle 
+ Piezoelectric effect 
+ Magnetostrictive effect 
+ Electrostrictive effect 
+ 
+Non-Traditional  Machining   
+ 
+Magnetostrictive transducers are most popular and robust amongst all. Figure shows a 
+typical magnetostrictive transducer along with horn. The horn or concentrator is a wave 
+guide, which amplifies and concentrates the vibration to the tool from the transducer. 
+ 
+The horn or concentrator can be of different shape like 
+ Tapered or conical 
+ Exponential 
+ Stepped 
+ 
+ 
+Machining of tapered or stepped horn is much easier as compared to the exponential one. 
+Figure shows different horns used in USM 
+ 
+ 
+ 
+2.5 PROCESS VARIABLES: 
+ Amplitude of vibration (a o)  15  50  
+ Frequency of vibration (f)  19  25 kHz 
+ Feed force (F)  related to tool dimensions 
+ Feed pressure (p) 
+ Abrasive size    
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+  
+ Abrasive material  Al2O3 
+- SiC 
+- B4C 
+- Boronsilicarbide 
+- Diamond 
+ Flow strength of work material 
+ Flow strength of the tool material 
+ Contact area of the tool  A 
+ Volume concentration of abrasive in water slurry  C 
+ 
+2.6 Applications of USM 
+ Used for machining hard and brittle metallic alloys, semiconductors, glass, 
+ceramics, carbides etc. 
+ Used for machining round, square, irregular shaped holes and surface impressions. 
+ Machining, wire drawing, punching or small blanking dies. 
+ 
+ 
+Figure: A non-round hole made by USM 
+ 
+ 
+ 
+ 
+2.7 Advantage of USM 
+USM process is a non-thermal, non-chemical, creates no changes in the microstructures, 
+chemical or physical properties of the workpiece and offers virtually stress free machined 
+surfaces. 
+Non-Traditional  Machining   
+  
+The main advantages are; 
+� Any materials can be machined regardless of their electrical conductivity 
+� Especially suitable for machining of brittle materials 
+� Machined parts by USM possess better surface finish and higher structural integrity. 
+� USM does not produce thermal, electrical and chemical abnormal surface 
+ 
+ 
+2.8 Disadvantages of USM 
+� USM has higher power consumption and lower material-removal rates than traditional 
+fabrication processes. 
+� Tool wears fast in USM. 
+� Machining area and depth is restraint in USM. 
+ 
+FURTHER READING: 
+1. Modern machining process, Pandey and Shah, Tata McGraw Hill 2000 
+2. New Technology, Bhattacharya 2000 
+3. Production Technology, HMT Tata McGraw Hill. 2001 
+ 
+Self-Assessment Questions 
+1. What is ultrasonic machining? 
+2. What are the advantages of USM? 
+3. What are the Disadvantages of USM? 
+4. What are the applications of USM? 
+5. What is ultrasonic transducer? 
+6. What are the magnetostrivtive materials employed in USM? 
+7. What is the purpose of concentrator used in USM? 
+Non-Traditional  Machining   
+ 
+ABRASIVE JET MACHINING (AJM) 
+ 
+LESSON STRUCTURE: 
+3.1 Introduction 
+3.2 Working principle 
+3.3 AJM Equipment 
+3.4 Process Parameters and Machining Characteristics 
+3.4 Applications 
+3.5 Advantages of abrasive jet cutting 
+3.6 Limitations of abrasive jet cutting 
+3.7 Introduction to Water Jet Machining 
+ 
+ 
+OBJECTIVES: 
+ Describe the basic mechanism of material removal in AJM
+ Identify major components of AJM equipment
+ State the working principle of AJM
+ Identify the process parameters of AJM
+ Identify the machining characteristics of AJM
+ Analyse the effect of process parameters on material removal rate (MRR)
+ Draw variation in MRR with different process parameters
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+ 
+ABRASIVE JET MACHINING (AJM) 
+ 
+3.1 Introduction 
+ 
+Abrasive water jet cutting is an extended version of water jet cutting; in which the 
+water jet contains abrasive particles such as silicon carbide or aluminium oxide in order 
+to increase the material removal rate above that of water jet machining. Almost any type 
+of material ranging from hard brittle materials such as ceramics, metals and glass to 
+extremely soft materials such as foam and rubbers can be cut by abrasive water jet 
+cutting. The narrow cutting stream and computer controlled movement enables this 
+process to produce parts accurately and efficiently. This machining process is especially 
+ideal for cutting materials that cannot be cut by laser or thermal cut. Metallic, non- 
+metallic and advanced composite materials of various thicknesses can be cut by this 
+process. This process is particularly suitable for heat sensitive materials that cannot be 
+machined by processes that produce heat while machining. 
+ 
+3.2 Working principle 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional Machining 
+ 
+ 
+In Abrasive Jet Machining (AJM), abrasive particles are made to impinge on the 
+work material at a high velocity. The jet of abrasive particles is carried by carrier gas or 
+air. The high velocity stream of abrasive is generated by converting the pressure energy 
+of the carrier gas or air to its kinetic energy and hence high velocity jet. The nozzle 
+directs the abrasive jet in a controlled manner onto the work material, so that the distance 
+between the nozzle and the work piece and the impingement angle can be set desirably. 
+The high velocity abrasive particles remove the material by micro-cutting action as well 
+as brittle fracture of the work material. 
+ 
+3.3 AJM Equipment 
+ 
+ 
+ 
+ 
+In AJM, air is compressed in an air compressor and compressed air at a pressure 
+of around 5 bar is used as the carrier gas. Figure also shows the other major parts of the 
+AJM system. Gases like CO 2, N2 can also be used as carrier gas which may directly be 
+issued from a gas cylinder. Generally oxygen is not used as a carrier gas. The carrier gas 
+ 
+Non-Traditional  Machining   
+  
+is first passed through a pressure regulator to obtain the desired working pressure. To 
+remove any oil vapour or particulate contaminant the same is passed through a series of 
+filters. Then the carrier gas enters a closed chamber known as the mixing chamber. The 
+abrasive particles enter the chamber from a hopper through a metallic sieve. The sieve is 
+constantly vibrated by an electromagnetic shaker. The mass flow rate of abrasive (15 
+gm/min) entering the chamber depends on the amplitude of vibration of the sieve and its 
+frequency. The abrasive particles are then carried by the carrier gas to the machining 
+chamber via an electro-magnetic on-off valve. The machining enclosure is essential to 
+contain the abrasive and machined particles in a safe and eco-friendly manner. The 
+machining is carried out as high velocity (200 m/s) abrasive particles are issued from the 
+nozzle onto a work piece traversing under the jet. 
+3.4 Process Parameters and Machining Characteristics. 
+ 
+The process parameters are listed below: 
+ Abrasive 
+ 
+Material  Al2O3 / SiC / glass 
+beads Shape  irregular / spherical 
+Size   
+Mass flow rate  2 ~ 20 gm/min 
+ Carrier gas 
+ Composition  Air, CO 2, N2
+ Density  Air ~ 1.3 kg/m3
+ Velocity  500 ~ 700 m/s
+ Pressure  2 ~ 10 bar
+ Flow rate  5 ~ 30 lpm
+ 
+ Abrasive Jet 
+Velocity  100 ~ 300 m/s 
+Mixing ratio  mass flow ratio of abrasive to gas 
+Stand-off distance  0.5 ~ 5 mm 
+Impingement Angle  600 ~ 900 
+Non-Traditional  Machining   
+  
+ Nozzle 
+Material  WC / sapphire 
+Diameter  (Internal) 0.2 ~ 0.8 
+mm Life  10 ~ 300 hours 
+The important machining characteristics in AJM are 
+3 
+ The material removal rate (MRR) mm /min or gm/min 
+ The machining accuracy 
+ The life of the nozzle 
+ 
+ 
+ 
+ 
+Effect of process parameters MRR 
+Non-Traditional  Machining   
+  
+Parameters of Abrasive Jet Maching (AJM) are factors that influence its Metal 
+Removal Rate (MRR). In a machining process, Metal Removal Rate (MRR) is the 
+volume of metal removed from a given work piece in unit time. The following are some 
+of the important process parameters of abrasive jet machining: 
+1. Abrasive mass flow rate 
+2. Nozzle tip distance 
+3. Gas Pressure 
+4. Velocity of abrasive particles 
+5. Mixing ratio 
+6. Abrasive grain size 
+ 
+ 
+Abrasive mass flow rate: 
+Mass flow rate of the abrasive particles is a major process parameter that 
+influences the metal removal rate in abrasive jet machining. 
+ 
+AJM, mass flow rate of the gas (or air) in abrasive jet is inversely proportional to 
+the mass flow rate of the abrasive particles. 
+ 
+ue to this fact, when continuously increasing the abrasive mass flow rate, Metal 
+Removal Rate (MRR) first increases to an optimum value (because of increase in number 
+of abrasive particles hitting the work piece) and then decreases. 
+ 
+However, if the mixing ratio is kept constant, Metal Removal Rate (MRR) 
+uniformly increases with increase in abrasive mass flow rate. 
+ 
+Nozzle tip distance: 
+Nozzle Tip Distance (NTD) is the gap provided between the nozzle tip and the 
+work piece. 
+Up to a certain limit, Metal Removal Rate (MRR) increases with increase in nozzle tip 
+distance. After that limit, MRR remains constant to some extent and then decreases. 
+Non-Traditional  Machining   
+  
+In addition to metal removal rate, nozzle tip distance influences the shape and diameter of 
+cut. 
+ 
+For optimal performance, a nozzle tip distance of 0.25 to 0.75 mm is provided. 
+ 
+Gas pressure: 
+ir or gas pressure has a direct impact on metal removal rate. 
+In abrasive jet machining, metal removal rate is directly proportional to air or gas 
+pressure. 
+ 
+Velocity of abrasive particles: 
+Whenever the velocity of abrasive particles is increased, the speed at which the 
+abrasive particles hit the work piece is increased. Because of this reason, in abrasive jet 
+machining, metal removal rate increases with increase in velocity of abrasive particles. 
+ 
+Mixing ratio: 
+Mixing ratio is a ratio that determines the quality of the air-abrasive mixture in 
+Abrasive Jet Machining (AJM). 
+ 
+It is the ratio between the mass flow rate of abrasive particles and the mass flow rate of 
+air (or gas). 
+ 
+When mixing ratio is increased continuously, metal removal rate first increases to some 
+extent and then decreases. 
+ 
+Abrasive grain size: 
+Size of the abrasive particle determines the speed at which metal is removed. 
+ 
+ 
+If smooth and fine surface finish is to be obtained, abrasive particle with small grain size 
+is used. 
+ 
+If metal has to be removed rapidly, abrasive particle with large grain size is used. 
+Non-Traditional  Machining   
+ 
+3.5 Applications 
+Abrasive water jet cutting is highly used in aerospace, automotive and electronics 
+industries. 
+In aerospace industries, parts such as titanium bodies for military aircrafts, engine 
+components (aluminium, titanium, heat resistant alloys), aluminium body parts 
+and interior cabin parts are made using abrasive water jet cutting. 
+In automotive industries, parts like interior trim (head liners, trunk liners, door 
+panels) and fibre glass body components and bumpers are made by this process. 
+Similarly, in electronics industries, circuit boards and cable stripping are made by 
+abrasive water jet cutting. 
+Figure: Steel gear and rack cut with an abrasive water jet 
+ 
+ 
+3.6 Advantages of abrasive water jet cutting 
+ In most of the cases, no secondary finishing required 
+ No cutter induced distortion 
+ Low cutting forces on workpieces 
+ Limited tooling requirements 
+ Little to no cutting burr 
+ Typical finish 125-250 microns 
+ Smaller kerf size reduces material wastages 
+ 
+ 
+[Type text] [Type text] [Type text] 
+ 
+Non-Traditional Machining   
+ 
+ No heat affected zone 
+ Localises structural changes 
+ No cutter induced metal contamination 
+ Eliminates thermal distortion 
+ No slag or cutting dross 
+ Precise, multi plane cutting of contours, shapes, and bevels of any angle. 
+ 
+ 
+3.7 Limitations of abrasive water jet cutting 
+ Cannot drill flat bottom 
+ Cannot cut materials that degrades quickly with moisture 
+ Surface finish degrades at higher cut speeds which are frequently used for rough 
+cutting. 
+ The major disadvantages of abrasive water jet cutting are high capital cost and 
+high 
+ noise levels during operation . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional Machining 
+ 
+ 
+ 
+WATERJETMACHINING (WJM)
+3.8 Introduction to Water Jet Machining  
+brasive water jet cutting is an extended version of water jet cutting; in which the 
+water jet contains abrasive particles such as silicon carbide or aluminium oxide in order 
+to increase the material removal rate above that of water jet machining. Almost any type 
+of material ranging from hard brittle materials such as ceramics, metals and glass to 
+extremely soft materials such as foam and rubbers can be cut by abrasive water jet 
+cutting. The narrow cutting stream and computer controlled movement enables this 
+process to produce parts accurately and efficiently. This machining process is especially 
+ideal for cutting materials that cannot be cut by laser or thermal cut. Metallic, non- 
+metallic and advanced composite materials of various thicknesses can be cut by this 
+process. This process is particularly suitable for heat sensitive materials that cannot be 
+machined by processes that produce heat while machining. 
+ 
+he schematic of abrasive water jet cutting is shown in Figure which is similar to 
+water jet cutting apart from some more features underneath the jewel; namely abrasive, 
+guard and mixing tube. In this process, high velocity water exiting the jewel creates a 
+vacuum which sucks abrasive from the abrasive line, which mixes with the water in the 
+mixing tube to form a high velocity beam of abrasives. 
+ 
+Figure: Abrasive water jet machining 
+ 
+Non-Traditional  Machining   
+ 
+Applications 
+ 
+Abrasive water jet cutting is highly used in aerospace, automotive and electronics 
+industries. In aerospace industries, parts such as titanium bodies for military aircrafts, 
+engine components (aluminium, titanium, heat resistant alloys), aluminium body parts 
+and interior cabin parts are made using abrasive water jet cutting. 
+ 
+In automotive industries, parts like interior trim (head liners, trunk liners, door 
+panels) and fibre glass body components and bumpers are made by this process. 
+Similarly, in electronics industries, circuit boards and cable stripping are made by 
+abrasive water jet cutting. 
+ 
+FURTHER READING: 
+1. Modern machining process, Pandey and Shah, Tata McGraw Hill 2000 
+2. New Technology, Bhattacharya 2000 
+3. Production Technology, HMT Tata McGraw Hill. 2001 
+ 
+Self-Assessment Questions 
+1. Define AJM? 
+2. What are the advantages of AJM process? 
+3. What are the applications of AJM? 
+4. Write the Disadvantages of AJM process? 
+5. Give a summary of the abrasive of their application for different operation? 
+6. What are the Process parameters affecting the MRR in AJM? 
+7. What are the different types abrasives used in AJM? 
+8. Reuse of abrasives is not recommended in AJM. Why? 
+9. What are the properties of water jet machining about effect cutting action? 
+10. What are the advantages of WJC over conventional cutting methods? 
+11. What are the applications of WJM? 
+12. What are the commonly used additives in WJM? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+ 
+ELECTROCHEMICAL MACHINING (ECM) 
+ 
+ 
+LESSON STRUCTURE: 
+ 
+4.1 Definition 
+4.2 Effect of MRR in ECM 
+4.3 Advantages of ECM 
+4.4 Limitations of ECM 
+ 
+ 
+OBJECTIVES 
+ Identify electro-chemical machining (ECM) as a particular type of non-tradition 
+Processes 
+ Describe the basic working principle of ECM process 
+ Describe material removal mechanism in ECM 
+ Identify the process parameters in ECM 
+ Identify different modules of ECM equipment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+ 
+ELECTROCHEMICAL MACHINING (ECM) 
+ 
+4.1 Introduction 
+ 
+Electrochemical machining (ECM) is a metal-removal process based on the 
+principle of reverse electroplating. In this process, particles travel from the anodic 
+material (workpiece) toward the cathodic material (machining tool). A current of 
+electrolyte fluid carries away the deplated material before it has a chance to reach the 
+machining tool. The cavity produced is the female mating image of the tool shape. 
+ 
+ 
+ 
+ 
+ 
+ECM process 
+ 
+ 
+Similar to EDM, the workpiece hardness is not a factor, making ECM suitable for 
+machining difficult-to machine materials. Difficult shapes can be made by this process 
+on materials regardless of their hardness. A schematic representation of ECM process is 
+shown in Figure 8. The ECM tool is positioned very close to the workpiece and a low 
+ 
+ 
+/m 
+cm /amp  Non-Traditional Machining  
+ 
+ 
+voltage, high amperage DC current is passed between the workpiece and electrode. Some 
+of the shapes made by ECM process is shown in Figure. 
+ 
+4.2 Effect of MRR in ECM 
+ 
+Material removal rate, MRR, in electrochemical machining: 
+ 
+3MRR = C .I. h  (cm  in) 
+3C: specific (material) removal rate (e.g., 
+0.2052  -min for nickel);                                                                                
+I: current (amp); 
+h: current efficiency (90 100%). 
+ 
+The rates at which metal can electrochemically remove are in proportion to the 
+current passed through the electrolyte and the elapsed time for that operation. Many 
+factors other than current influence the rate of machining. These involve electrolyte type, 
+rate of electrolyte flow, and some other process conditions. 
+ 
+ 
+ 
+ 
+ 
+Parts made by ECM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+/amp/m  
+4.2 Advantages of ECM 
+ 
+ The components are not subject to either thermal or mechanical stress. 
+ No tool wear during ECM process. 
+ Fragile parts can be machined easily as there is no stress involved. 
+ ECM deburring can debur difficult to access areas of parts. 
+ High surface finish (up to 25 탆 in) can be achieved by ECM process. 
+ Complex geometrical shapes in high-strength materials particularly in the 
+aerospace industry for the mass production of turbine blades, jet-engine parts and 
+nozzles can be machined repeatedly and accurately. 
+ Deep holes can be made by this process. 
+ 
+ 
+4.3 Limitations of ECM 
+ 
+ ECM is not suitable to produce sharp square corners or flat bottoms because of 
+the tendency for the electrolyte to erode away sharp profiles. 
+ ECM can be applied to most metals but, due to the high equipment costs, is 
+usually used primarily for highly specialised applications. 
+ 
+ 
+Material removal rate, MRR, in electrochemical machining: 
+ 
+3MRR = C .I. h  (cm  in) 
+C: specific (material) removal rate (e.g., 0.2052 cm3 -min for nickel); 
+I: current (amp); 
+h: current efficiency (90 100%). 
+ 
+The rates at which metal can electrochemically remove are in proportion to the current 
+passed through the electrolyte and the elapsed time for that operation. Many factors other 
+than current influence the rate of machining. These involve electrolyte type, rate of 
+electrolyte flow, and some other process conditions. 
+Non-Traditional  Machining   
+FURTHER READING: 
+1. Modern machining process, Pandey and Shah, Tata McGraw Hill 2000 
+2. New Technology, Bhattacharya 2000 
+3. Production Technology, HMT Tata McGraw Hill. 2001 
+ 
+Self-Assessment Questions 
+1. Define ECM? 
+2. What are the factors that influence oxidation in ECM? 
+3. What are the materials used to make the tool electrode? 
+4. What are the main functions of electrolysis in the ECM? 
+5. What are the properties are expected from the electrolysis used in the ECM? 
+6. What are the parameters that affect the MRR? 
+7. What are the advantages of ECM? 
+8. What are the limitations of ECM? 
+9. What are the applications of ECM? 
+10. Which material is used to make the grinding wheel? 
+11. What are the advantages of ECG? 
+12. What are the disadvantages of ECG? 
+13. What are the limitations of ECG? 
+14. What is the application of ECG? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHEMICAL MACHINING (CHM) 
+LESSON STRUCTURE: 
+5.1 Introduction 
+5.2 CHEMICAL MILLING 
+5.3 Steps in chemical milling 
+5.4 Applications 
+ 
+ 
+OBJECTIVES 
+ Describe the basic working principle of CHM process 
+ Describe material removal mechanism in CHM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+  
+CHEMICAL MACHINING (CHM) 
+ 
+5.1 Introduction 
+ 
+Chemical machining (CM) is the controlled dissolution of workpiece material 
+(etching) by means of a strong chemical reagent (etchant). In CM material is removed 
+from selected areas of workpiece by immersing it in a chemical reagents or etchants; such 
+as acids and alkaline solutions. Material is removed by microscopic electrochemical cell 
+action, as occurs in corrosion or chemical dissolution of a metal. This controlled chemical 
+dissolution will simultaneously etch all exposed surfaces even though the penetration 
+rates of the material removal may be only 0.0025 0.1 mm/min. The basic process takes 
+many forms: chemical milling of pockets, contours, overall metal removal, chemical 
+blanking for etching through thin sheets; photochemical machining (pcm) for etching by 
+using of photosensitive resists in microelectronics; chemical or electrochemical polishing 
+where weak chemical reagents are used (sometimes with remote electric assist) for 
+polishing or deburring and chemical jet machining where a single chemically active jet is 
+used. A schematic of chemical machining process is shown in Figure. 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Schematic of chemical machining process (b) Stages in producing a profiled cavity 
+by chemical machining (Kalpakjain & Schmid) 
+Non-Traditional  Machining   
+  
+5.2 CHEMICAL MILLING 
+ 
+In chemical milling, shallow cavities are produced on plates, sheets, forgings and 
+extrusions. The two key materials used in chemical milling process are etchant and 
+maskant. Etchants are acid or alkaline solutions maintained within controlled ranges of 
+chemical composition and temperature. Maskants are specially designed elastomeric 
+products that are hand strippable and chemically resistant to the harsh etchants. 
+ 
+ 
+5.3 Steps in chemical milling 
+ 
+ Residual stress relieving: If the part to be machined has residual stresses from the 
+previous processing, these stresses first should be relieved in order to prevent 
+warping after chemical milling. 
+ Preparing: The surfaces are degreased and cleaned thoroughly to ensure both 
+good adhesion of the masking material and the uniform material removal. 
+ Masking: Masking material is applied (coating or protecting areas not to be 
+etched). 
+ Etching: The exposed surfaces are machined chemically with etchants. 
+ Demasking: After machining, the parts should be washed thoroughly to prevent 
+further reactions with or exposure to any etchant residues. Then the rest of the 
+masking material is removed and the part is cleaned and inspected. 
+ 
+5.4 Applications: 
+ 
+Chemical milling is used in the aerospace industry to remove shallow layers of material 
+from large aircraft components missile skin panels (Figure ), extruded parts for airframes. 
+Non-Traditional  Machining   
+  
+Figure : Missile skin-panel section contoured by chemical milling to improve the 
+stiffness- to- weight ratio of the part (Kalpakjain & Schmid) 
+ 
+FURTHER READING: 
+1. Modern machining process, Pandey and Shah, Tata McGraw Hill 2000 
+2. New Technology, Bhattacharya 2000 
+3. Production Technology, HMT Tata McGraw Hill. 2001 
+Non-Traditional  Machining   
+ 
+CHEMICAL MACHINING (CHM) 
+LESSON STRUCTURE: 
+5.1 Introduction 
+5.2 CHEMICAL MILLING 
+5.3 Steps in chemical milling 
+5.4 Applications 
+ 
+ 
+OBJECTIVES 
+ Describe the basic working principle of CHM process 
+ Describe material removal mechanism in CHM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+  
+CHEMICAL MACHINING (CHM) 
+ 
+5.1 Introduction 
+ 
+Chemical machining (CM) is the controlled dissolution of workpiece material 
+(etching) by means of a strong chemical reagent (etchant). In CM material is removed 
+from selected areas of workpiece by immersing it in a chemical reagents or etchants; such 
+as acids and alkaline solutions. Material is removed by microscopic electrochemical cell 
+action, as occurs in corrosion or chemical dissolution of a metal. This controlled chemical 
+dissolution will simultaneously etch all exposed surfaces even though the penetration 
+rates of the material removal may be only 0.0025 0.1 mm/min. The basic process takes 
+many forms: chemical milling of pockets, contours, overall metal removal, chemical 
+blanking for etching through thin sheets; photochemical machining (pcm) for etching by 
+using of photosensitive resists in microelectronics; chemical or electrochemical polishing 
+where weak chemical reagents are used (sometimes with remote electric assist) for 
+polishing or deburring and chemical jet machining where a single chemically active jet is 
+used. A schematic of chemical machining process is shown in Figure. 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Schematic of chemical machining process (b) Stages in producing a profiled cavity 
+by chemical machining (Kalpakjain & Schmid) 
+Non-Traditional  Machining   
+  
+5.2 CHEMICAL MILLING 
+ 
+In chemical milling, shallow cavities are produced on plates, sheets, forgings and 
+extrusions. The two key materials used in chemical milling process are etchant and 
+maskant. Etchants are acid or alkaline solutions maintained within controlled ranges of 
+chemical composition and temperature. Maskants are specially designed elastomeric 
+products that are hand strippable and chemically resistant to the harsh etchants. 
+ 
+ 
+5.3 Steps in chemical milling 
+ 
+ Residual stress relieving: If the part to be machined has residual stresses from the 
+previous processing, these stresses first should be relieved in order to prevent 
+warping after chemical milling. 
+ Preparing: The surfaces are degreased and cleaned thoroughly to ensure both 
+good adhesion of the masking material and the uniform material removal. 
+ Masking: Masking material is applied (coating or protecting areas not to be 
+etched). 
+ Etching: The exposed surfaces are machined chemically with etchants. 
+ Demasking: After machining, the parts should be washed thoroughly to prevent 
+further reactions with or exposure to any etchant residues. Then the rest of the 
+masking material is removed and the part is cleaned and inspected. 
+ 
+5.4 Applications: 
+ 
+Chemical milling is used in the aerospace industry to remove shallow layers of material 
+from large aircraft components missile skin panels (Figure ), extruded parts for airframes. 
+Non-Traditional  Machining   
+  
+Figure : Missile skin-panel section contoured by chemical milling to improve the 
+stiffness- to- weight ratio of the part (Kalpakjain & Schmid) 
+ 
+FURTHER READING: 
+1. Modern machining process, Pandey and Shah, Tata McGraw Hill 2000 
+2. New Technology, Bhattacharya 2000 
+3. Production Technology, HMT Tata McGraw Hill. 2001 
+Non-Traditional  Machining   
+ 
+ELECTRICAL DISCHARGE MACHINING (EDM) 
+ 
+LESSON STRUCTURE: 
+6.1 Introduction 
+6.2 Working principle of EDM 
+6.3 Dielectric fluids 
+6.4 Wire EDM 
+6.5 Application of EDM 
+6.6 Advantages of EDM 
+6.7 Limitations of EDM 
+ 
+ 
+OBJECTIVES 
+ Identify electro-discharge machining (EDM) as a particular type of non-tradition 
+Processes 
+ Describe the basic working principle of EDM process 
+ Describe material removal mechanism in EDM 
+ Identify the process parameters in EDM 
+ Describe the characteristics of EDM 
+ Identify the purpose of dielectric fluid in EDM 
+ Identify the machining characteristics in EDM 
+ Analyse the effect of process variables on surface roughness 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+  
+ELECTRICAL DISCHARGE MACHINING (EDM) 
+ 
+6.1 Introduction 
+ 
+Electrical discharge machining (EDM) is one of the most widely used non- 
+traditional machining processes. The main attraction of EDM over traditional machining 
+processes such as metal cutting using different tools and grinding is that this technique 
+utilises thermoelectric process to erode undesired materials from the workpiece by a 
+series of discrete electrical sparks between the workpiece and the electrode. A picture of 
+EDM machine in operation is shown in Figure. 
+ 
+ 
+ 
+ 
+ 
+Figure : Electrical discharge machine 
+ 
+ 
+The traditional machining processes rely on harder tool or abrasive material to 
+remove the softer material whereas non-traditional machining processes such as EDM 
+uses electrical spark or thermal energy to erode unwanted material in order to create 
+desired shape. So, the hardness of the material is no longer a dominating factor for EDM 
+process. A schematic of an EDM process is shown in Figure 2, where the tool and the 
+workpiece are immersed in a dielectric fluid. 
+Non-Traditional  Machining   
+ (cm /min)  
+6.2 Working principle of EDM 
+ 
+As shown in Figure 1, at the beginning of EDM operation, a high voltage is 
+applied across the narrow gap between the electrode and the workpiece. This high voltage 
+induces an electric field in the insulating dielectric that is present in narrow gap between 
+electrode and workpiece. This cause conducting particles suspended in the dielectric to 
+concentrate at the points of strongest electrical field. When the potential difference 
+between the electrode and the workpiece is sufficiently high, the dielectric breaks down 
+and a transient spark discharges through the dielectric fluid, removing small amount of 
+material from the workpiece surface. The volume of the material removed per spark 
+-6         -6        3 
+discharge is typically in the range of 10 to 10 mm . 
+ 
+The material removal rate, MRR, in EDM is calculated by the following foumula: 
+MRR = 40 I / T m 1.23 3 
+Where, I is the current amp, 
+ 
+0 
+Tm is the melting temperature of workpiece in C 
+ 
+ 
+ 
+Figure: Schematic of EDM process 
+Non-Traditional  Machining   
+ 
+ 
+ 
+EDM removes material by discharging an electrical current, normally stored in a 
+capacitor bank, across a small gap between the tool (cathode) and the workpiece (anode) 
+typically in the order of 50 volts/10amps. 
+ 
+6.3 Dielectric fluids 
+ 
+Dielectric fluids used in EDM process are hydrocarbon oils, kerosene and 
+deionised water. The functions of the dielectric fluid are to: 
+ 
+ Act as an insulator between the tool and the workpiece. 
+ Act as coolant. 
+ Act as a flushing medium for the removal of the chips. 
+ 
+ 
+The electrodes for EDM process usually are made of graphite, brass, copper and copper- 
+tungsten alloys. 
+ 
+Design considerations for EDM process are as follows: 
+ 
+ Deep slots and narrow openings should be avoided. 
+ The surface smoothness value should not be specified too fine. 
+ Rough cut should be done by other machining process. Only finishing operation 
+should be done in this process as MRR for this process is low. 
+ 
+ 
+6.4 Wire EDM 
+ 
+EDM, primarily, exists commercially in the form of die-sinking machines and 
+wire-cutting machines (Wire EDM). The concept of wire EDM is shown in Figure 4. In 
+this process, a slowly moving wire travels along a prescribed path and removes material 
+from the workpiece. Wire EDM uses electro-thermal mechanisms to cut electrically 
+conductive materials. The material is removed by a series of discrete discharges between 
+the wire electrode and the workpiece in the presence of dieelectirc fluid, which creates a 
+path for each discharge as the fluid becomes ionized in the gap. The area where discharge 
+takes 
+Non-Traditional  Machining   
+ 
+place is heated to extremely high temperature, so that the surface is melted and removed. 
+The removed particles are flushed away by the flowing dielectric fluids. 
+ 
+The wire EDM process can cut intricate components for the electric and aerospace 
+industries. This non-traditional machining process is widely used to pattern tool steel for 
+die manufacturing. 
+ 
+ 
+Wire erosion of an extrusion die 
+ 
+The wires for wire EDM is made of brass, copper, tungsten, molybdenum. Zinc or 
+brass coated wires are also used extensively in this process. The wire used in this process 
+should posses high tensile strength and good electrical conductivity. Wire EDM can also 
+employ to cut cylindrical objects with high precision. The sparked eroded extrusion dies 
+are presented in Figure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+  
+ 
+Sparked eroded extrusion dies 
+ 
+This process is usually used in conjunction with CNC and will only work when a 
+part is to be cut completely through. The melting temperature of the parts to be machined 
+is an important parameter for this process rather than strength or hardness. The surface 
+quality and MRR of the machined surface by wire EDM will depend on different 
+machining parameters such as applied peak current, and wire materials. 
+ 
+6.5 Application of EDM 
+ 
+The EDM process has the ability to machine hard, difficult-to-machine materials. 
+Parts with complex, precise and irregular shapes for forging, press tools, extrusion dies, 
+difficult internal shapes for aerospace and medical applications can be made by EDM 
+process. Some of the shapes made by EDM process are shown in Figure. 
+. 
+Non-Traditional  Machining   
+  
+ 
+Figure: Difficult internal parts made by EDM process 
+ 
+6.6 Advantages of EDM 
+ 
+The main advantages of DM are: 
+ 
+ By this process, materials of any hardness can be machined; 
+ No burrs are left in machined surface; 
+ One of the main advantages of this process is that thin and fragile/brittle 
+components can be machined without distortion; 
+ Complex internal shapes can be machined 
+ 
+ 
+6.7 Limitations of EDM 
+ 
+The main limitations of this process are: 
+ 
+ This process can only be employed in electrically conductive materials; 
+ Material removal rate is low and the process overall is slow compared to 
+conventional machining processes; 
+ Unwanted erosion and over cutting of material can occur; 
+Non-Traditional  Machining   
+ 
+FURTHER READING: 
+1. Modern machining process, Pandey and Shah, Tata McGraw Hill 2000 
+2. New Technology, Bhattacharya 2000 
+3. Production Technology, HMT Tata McGraw Hill. 2001 
+ 
+Self-Assessment Questions 
+1. Define electrical discharge machining? 
+2. What are functions of dielectric fluid used in EDM? 
+3. Basic requirement of dielectric fluid used in EDM? 
+4. What the dielectric fluids commonly used in EDM? 
+5. Name some of the tool material used in EDM? 
+6. What is the process parameter efficiency the MRR? 
+7. Explain electrode wear? 
+8. What are types of power supply circuits used in EDM? 
+9. What are the design factors to be considered while selecting the machine tool? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+UNIT -7 
+LASER BEAM MACHINING (LBM) 
+ 
+LESSON STRUCTURE: 
+ 
+7.1 Introduction 
+7.2 Laser beam cutting (drilling) 
+7.3 Laser beam cutting (milling) 
+7.4 Advantage of laser cutting 
+7.5 Limitations of laser cutting 
+ 
+ 
+OBJECTIVES: 
+ Describe the basic mechanism of material removal in LBM 
+ Identify major components of LBM equipment 
+ State the working principle of LBM equipment 
+ Identify the machining characteristics of LBM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-Traditional  Machining   
+  
+LASER BEAM MACHINING (LBM) 
+ 
+7.1 Introduction 
+ 
+Laser-beam machining is a thermal material-removal process that utilizes a high- 
+energy, coherent light beam to melt and vaporize particles on the surface of metallic and 
+non-metallic workpieces. Lasers can be used to cut, drill, weld and mark. LBM is 
+particularly suitable for making accurately placed holes. A schematic of laser beam 
+machining is shown in Figure. 
+Different types of lasers are available for manufacturing operations which are as follows: 
+ 
+ CO2 (pulsed or continuous wave): It is a gas laser that emits light in the infrared 
+region. It can provide up to 25 kW in continuous-wave mode. 
+ Nd:YAG: Neodymium-doped Yttrium-Aluminum-Garnet (Y 3Al5O12) laser is a 
+solid-state laser which can deliver light through a fibre-optic cable. It can provide 
+up to 50 kW power in pulsed mode and 1 kW in continuous-wave mode. 
+ 
+ 
+ 
+ 
+Figure: Laser beam machining schematic 
+Non-Traditional  Machining   
+  
+7.2 Laser beam cutting (drilling) 
+ 
+ In drilling, energy transferred (e.g., via a Nd:YAG laser) into the workpiece melts 
+the material at the point of contact, which subsequently changes into a plasma and 
+leaves the region. 
+ A gas jet (typically, oxygen) can further facilitate this phase transformation and 
+departure of material removed. 
+ Laser drilling should be targeted for hard materials and hole geometries that are 
+difficult to achieve with other methods. 
+ 
+ 
+A typical SEM micrograph hole drilled by laser beam machining process 
+employed in making a hole is shown in Figure 
+ 
+. 
+Figure: SEM micrograph hole drilled in 250 micro meter thick Silicon Nitride with 3rd 
+harmonic Nd: YAG laser 
+ 
+7.3 Laser beam cutting (milling) 
+ 
+ A laser spot reflected onto the surface of a workpiece travels along a prescribed 
+trajectory and cuts into the material. 
+ Continuous-wave mode (CO 2) gas lasers are very suitable for laser cutting 
+providing high-average power, yielding high material-removal rates, and 
+smooth cutting surfaces. 
+Non-Traditional  Machining   
+ 
+7.4 Advantage of laser cutting 
+ 
+ No limit to cutting path as the laser point can move any path. 
+ The process is stress less allowing very fragile materials to be laser cut without 
+any support. 
+ Very hard and abrasive material can be cut. 
+ Sticky materials are also can be cut by this process. 
+ It is a cost effective and flexible process. 
+ High accuracy parts can be machined. 
+ No cutting lubricants required 
+ No tool wear 
+ Narrow heat effected zone 
+ 
+7.5 Limitations of laser cutting 
+ 
+ Uneconomic on high volumes compared to stamping 
+ Limitations on thickness due to taper 
+ High capital cost 
+ High maintenance cost 
+ Assist or cover gas required 
+ 
+ 
+FURTHER READING: 
+1. Modern machining process, Pandey and Shah, Tata McGraw Hill 2000 
+2. New Technology, Bhattacharya 2000 
+3. Production Technology, HMT Tata McGraw Hill. 2001 
+ 
+Self-Assessment Questions 
+1. What is Laser? 
+2. What are the characteristics of Laser beam? 
+3. What are the gases commonly used in LASER? 
+4. What are the characteristics of Laser used in Laser machining? 
+ 

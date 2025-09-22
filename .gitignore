@@ -1,0 +1,10 @@
+venv/
+newenv/
+uploads/
+__pycache__/
+*.pyc
+.env
+.cache/
+.vscode/
+*.json
+documents.db
