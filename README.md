@@ -1,156 +1,151 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🚀 AI-Powered Document & Image Processing Assistant
+# 🚀 NEO – AI-Powered Document & Multimedia Assistant
 
-An end-to-end **full-stack AI assistant** that processes documents & images, performs OCR, leverages **Google Vertex AI (Gemini 1.5)** for intelligent analysis, and provides **query-based responses** via a clean web interface.
+**NEO** is an **end-to-end AI assistant** built with Flask that converts documents, images, and multimedia queries into **intelligent, interactive knowledge responses**. It integrates **OCR (Google Vision + Tesseract)**, **Vertex AI (Gemini 1.5)**, and multiple APIs (Spotify, YouTube, Wikipedia, Weather) to provide **context-aware answers, summaries, and actionable tasks**.
 
-This project demonstrates how **AI + OCR + modular backend design** can turn raw documents into a **knowledge assistant** capable of answering questions, summarizing content, and even extending into third-party integrations.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📌 Key Features
+
+* 📂 Upload & process **PDFs, DOCX, TXT, PNG, JPG, JPEG**
+* 🔍 OCR via **Google Vision API** & **Tesseract** for scanned documents/images
+* ⚡ **Multithreaded ingestion** + **caching** for fast processing
+* 🤖 AI-powered **summarization & Q\&A** using **Vertex AI Gemini 1.5**
+* 🌐 Integration with external services:
+
+  * **Wikipedia** search & summaries
+  * **Google Search**
+  * **Spotify playback**
+  * **YouTube video playback**
+  * **Weather information**
+* 🧩 Modular architecture – easy to extend with new AI models or endpoints
+* 🎙 Optional **Text-to-Speech** via pyttsx3 (disabled on Render)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 📌 Features
+## 🏗️ System Architecture & Workflow
 
-* 📂 Upload and process **PDF, DOCX, text, and image files**
-* 🔍 OCR support via **Google Vision API + Tesseract** for scanned docs/images
-* ⚡ Fast ingestion with **caching + multithreading**
-* 🤖 AI-powered **question answering & summarization** with **Vertex AI**
-* 🌐 Extensible integrations (Wikipedia, Google search, Spotify, weather, etc.)
-* 🧩 Modular design – add new endpoints or AI services easily
+### 1️⃣ User Upload
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Users upload documents/images through the web UI.
+* Files are validated against allowed types and stored in `uploads/`.
 
-# 🏗️ System Architecture & Workflow
+### 2️⃣ Document Ingestion & Preprocessing
 
-# 🔄 Workflow Breakdown
+* **Text files** (`txt`, `docx`, machine-readable PDFs) → Read directly.
+* **Scanned PDFs/images** → OCR with Google Vision API + Tesseract.
+* Supports **multithreading** to cache content without blocking.
 
-1. **User Upload**
+### 3️⃣ AI Querying
 
-   * Users upload files (`PDF`, `DOCX`, `TXT`, `Image`) via the web UI
-   * Files are validated and stored in the server upload directory
+* Uploaded documents’ content is cached.
+* User queries are combined with cached context and sent to **Vertex AI (Gemini 1.5)**.
+* Responses include answers, summaries, and actionable instructions.
 
-2. **Document Ingestion & Preprocessing**
+### 4️⃣ Multimedia & Knowledge Integrations
 
-   * Flask backend detects file type
-   * OCR (`Google Vision API + Tesseract`) extracts text from images/scanned PDFs
-   * Textual files (`txt`, `docx`, machine-readable PDFs) are read directly
-
-3. **Caching & Threading**
-
-   * Extracted content is cached in memory for speed
-   * Multithreaded ingestion ensures smooth, non-blocking processing
-
-4. **AI Model Integration (Vertex AI)**
-
-   * Processed text → **Gemini 1.5 via Vertex AI**
-   * Enables summarization, semantic understanding, and contextual Q\&A
-
-5. **Intelligent Querying**
-
-   * API endpoints allow users to **ask questions about their uploaded docs**
-   * Backend sends queries + doc context → AI → returns precise answers
-
-6. **Additional Integrations**
-7. 
-   * Wikipedia & Google search for fact-checking
-   * Spotify & weather APIs as optional assistant features
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 📂 Project Structure
-
-| File/Folder             | Purpose                                                                |
-| ----------------------- | ---------------------------------------------------------------------- |
-| `app.py`                | Core Flask app – handles upload, preprocessing, and AI orchestration   |
-| `generate_answers.py`   | Uses AI + doc context to generate accurate answers from uploads        |
-| `generate_questions.py` | Utility for generating questions (useful for exams/learning use cases) |
-| `requirements.txt`      | Dependency list (Flask, Vertex AI, OCR libraries, Google APIs, etc.)   |
-| `uploads/`              | Directory for managing user-uploaded files                             |
+* **Spotify:** Play requested tracks on available devices.
+* **YouTube:** Open video links in browser.
+* **Wikipedia/Google:** Search & retrieve relevant content.
+* **Weather API:** Current weather info per location.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🔀 Data Flow Explained
-
-**Arrows in the diagram represent:**
-
-* 📥 **File flow:** User → Upload → Backend → Preprocessing/OCR → Caching
-* ⚙️ **Processing flow:** Cached/processed text → AI Model → Response generation
-* ❓ **Query flow:** User Question → API Endpoint → Vertex AI → Response → User
-
-This forms a **robust pipeline** for **knowledge extraction, comprehension, and retrieval** from multiple file types.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# 🌟 Extensibility & Use Cases
-
-* 🔧 **Extensible Modules:** Easily plug in new endpoints or AI services
-* 📚 **Education:** Auto-generate questions/answers from textbooks or notes
-* 🏢 **Enterprise Knowledge Management:** Search & query across internal docs
-* 📑 **Smart Document Assistant:** Summarize, query, and analyze large reports
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# ⚙️ Tech Stack
-
-* **Backend:** Flask, Python
-* **AI/ML:** Vertex AI (Gemini-1.5), Google Vision API, Tesseract OCR
-* **Integrations:** Wikipedia, Google Search, Spotify API, Weather API
-* **Infra:** Multithreading, caching, modular service architecture
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# 🚀 Getting Started
-## 1️⃣ Clone the repo
+## 🔀 Data Flow
 
 ```
+User → Upload → Backend → Preprocessing/OCR → Caching
+       ↘ AI Model (Vertex AI) → Q&A/Summarization → User
+       ↘ API Integrations (Spotify/YouTube/Wiki/Weather)
+```
+
+This creates a **robust pipeline** for **knowledge extraction, comprehension, and interactive querying**.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📂 Project Structure
+
+| File/Folder        | Purpose                                                               |
+| ------------------ | --------------------------------------------------------------------- |
+| `app.py`           | Core Flask backend: file handling, AI orchestration, API integrations |
+| `uploads/`         | User-uploaded files                                                   |
+| `.env`             | Environment variables (API keys, credentials, secrets)                |
+| `requirements.txt` | Dependencies: Flask, Vertex AI SDK, Google APIs, OCR libs, Spotipy    |
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## ⚙️ Tech Stack
+
+* **Backend:** Flask, Python 3
+* **AI/ML:** Vertex AI (Gemini 1.5)
+* **OCR:** Google Vision API, Tesseract
+* **PDF/Image Processing:** PyPDF2, pdf2image, PIL
+* **Integrations:** Spotify, YouTube, Wikipedia, OpenWeather
+* **Extras:** pyttsx3 (TTS), Multithreading & caching
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repo
+
+```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
 
-# 2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Setup environment variables
+### 3️⃣ Set environment variables
 
-```
-export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/credentials.json"
+```bash
+export GOOGLE_APPLICATION_CREDENTIALS="path/to/credentials.json"
 export VERTEX_PROJECT_ID="your-gcp-project-id"
+export SPOTIFY_CLIENT_ID="your-spotify-client-id"
+export SPOTIFY_CLIENT_SECRET="your-spotify-client-secret"
+export OPENWEATHER_API_KEY="your-openweather-api-key"
+export YOUTUBE_API_KEY="your-youtube-api-key"
 ```
 
 ### 4️⃣ Run the Flask app
 
-```
+```bash
 python app.py
 ```
 
-### 5️⃣ Open in browser
+### 5️⃣ Access in browser
 
 ```
 http://127.0.0.1:5000
 ```
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧑‍💻 Example Usage
 
-* Upload a scanned **PDF invoice** → Extract text via OCR → Ask *“What is the invoice total?”*
-* Upload a **research paper** → Ask *“Summarize the methodology section”*
-* Upload **lecture notes** → Auto-generate **practice questions & answers**
+* **Document Q\&A:** Upload a research paper → Ask *“Summarize the methodology section”*
+* **Invoice extraction:** Upload a scanned invoice → Ask *“What is the total amount?”*
+* **Lecture notes:** Generate practice questions/answers automatically
+* **Multimedia:** *“Play Shape of You on Spotify”* or *“Open Imagine Dragons video”*
+* **Knowledge search:** *“Search Wikipedia for Artificial Intelligence”*
+* **Weather info:** *“Current weather of Bangalore”*
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 📜 License
 
-This project is released under the **MIT License** – free to use, modify, and distribute.
+**MIT License** – Free to use, modify, and distribute.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 🤝 Contributions
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to add.
+Pull requests and feature additions are welcome! Please open an issue first to discuss major changes.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✨ With this assistant, your documents are no longer static files – they become **interactive, intelligent knowledge sources**.
+✨ **NEO transforms static documents, images, and queries into an intelligent, interactive assistant** – capable of answering questions, playing media, fetching real-time info, and much more.
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
